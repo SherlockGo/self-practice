@@ -4,7 +4,7 @@ import java.util.concurrent.CountDownLatch;
 
 /**
  * @program: self-practice
- * @description:
+ * @description: 其他线程都执行完成之后，才继续执行当前线程
  * @author: LiPeng
  * @create: 2020-10-11 10:14
  **/
